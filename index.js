@@ -1,6 +1,6 @@
 'use strict';
 
-var lazywaitswaggeroptions = require('../lib/src/swagger-options');
+var lazywaitswaggeroptions = require('../lib/swagger-options');
 var express = require('express');
 var swaggerUi = require('swagger-ui-dist');
 var favIconHtml =
